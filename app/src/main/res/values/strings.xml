@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SALES APP</string>
+    <string name="toyota">Toyota</string>
+    <string name="direct_payments">Direct payments</string>
+    <string name="book_service">Book service</string>
+</resources>
